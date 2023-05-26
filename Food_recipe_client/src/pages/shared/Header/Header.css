@@ -1,0 +1,24 @@
+.profile{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.profile_name {
+    position: absolute;
+    top: 60px;
+    left: -10px;
+    color: gold;
+    display: none;
+    width: 120px;
+}
+.profile:hover a.profile_name.nav-link{
+    display: block;
+} 
+
+.navbar_custom a {
+    font-size: 18px;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}

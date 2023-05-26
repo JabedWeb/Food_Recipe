@@ -1,0 +1,7 @@
+.active{
+    color: gold;
+}
+
+.no_active{
+    color: white !important;
+}
