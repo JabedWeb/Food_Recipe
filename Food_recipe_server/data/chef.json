@@ -1,0 +1,58 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "name": "Tom Colicchio",
+      "description": "Tom Colicchio is an American chef who is best known as a judge on the television show Top Chef. He is the head chef and owner of Crafted Hospitality, which includes several high-end restaurants throughout the United States. Colicchio is passionate about using seasonal ingredients and supporting local farmers.",
+      "likes": 75,
+      "yearsOfExperience": 30,
+      "rating": 4.5,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar6.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Alice Waters",
+      "description": "Alice Waters is an American chef and founder of the famous restaurant Chez Panisse in Berkeley, California. She is a pioneer of the farm-to-table movement and is known for her use of organic, locally-sourced ingredients. Waters has won numerous awards for her cooking and activism, including the National Humanities Medal.",
+      "likes": 60,
+      "yearsOfExperience": 50,
+      "rating": 4.6,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bobby Flay",
+      "description": "Bobby Flay is an American chef and restaurateur who has hosted several cooking shows on television, including Iron Chef America and Beat Bobby Flay. He is the owner of several successful restaurants, including Mesa Grill and Bar Americain. Flay is known for his bold and spicy flavors, and his use of Southwestern and Mediterranean influences in his cooking.",
+      "likes": 80,
+      "yearsOfExperience": 35,
+      "rating": 4.9,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar8.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ina Garten",
+      "description": "Ina Garten, also known as the Barefoot Contessa, is an American chef and cookbook author who is best known for her television show of the same name. She is the owner of the specialty food store Barefoot Contessa in East Hampton, New York. Garten's cooking style is simple and elegant, and she focuses on using high-quality ingredients to create delicious dishes.",
+      "likes": 70,
+      "yearsOfExperience": 50,
+      "rating": 4.3,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Emeril Lagasse",
+      "description": "Emeril Lagasse is an American chef, restaurateur, and television personality who is best known for his TV shows Emeril Live and The Essence of Emeril. He is the owner of several successful restaurants, including Emeril's New Orleans and Delmonico Steakhouse. Lagasse is known for his bold flavors and his use of Cajun and Creole cuisine in his cooking.",
+      "likes": 65,
+      "yearsOfExperience": 40,
+      "rating": 4.8,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar9.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gordon Ramsay",
+      "description": "Gordon Ramsay is a Scottish chef, restaurateur, and television personality who has hosted several cooking shows, including Hell's Kitchen and MasterChef. He is the owner of several successful restaurants around the world, including Gordon Ramsay Steak in Las Vegas. Ramsay is known for his fiery temperament and his innovative cooking techniques.",
+      "likes": 90,
+      "yearsOfExperience": 35,
+      "rating": 4.7,
+      "photo": "http://www.themeenergy.com/themes/html/social-chef/images/avatar3.jpg"
+    }
+  ]
+}

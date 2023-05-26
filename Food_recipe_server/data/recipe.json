@@ -1,0 +1,369 @@
+{
+        "recipes": [
+          {
+            "id": 1,
+            "chef_id": 1,
+            "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img13.jpg",
+            "name": "Spicy Grilled Chicken",
+            "ingredients": [
+              "4 boneless chicken breasts",
+              "1/4 cup olive oil",
+              "2 tbsp paprika",
+              "1 tbsp garlic powder",
+              "1 tsp cayenne pepper",
+              "salt and pepper to taste"
+            ],
+            "method": "1. Mix together the olive oil, paprika, garlic powder, cayenne pepper, salt, and pepper. \n2. Coat the chicken breasts with the spice mixture. \n3. Grill over medium heat for 8-10 minutes on each side, or until the chicken is cooked through. \n4. Serve hot.",
+            "rating": 4.5
+          },
+          {
+            "id": 2,
+            "chef_id": 1,
+            "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img2.jpg",
+            "name": "Garlic Shrimp Linguine",
+            "ingredients": [
+              "1 lb linguine",
+              "1 lb shrimp, peeled and deveined",
+              "1/4 cup olive oil",
+              "6 garlic cloves, minced",
+              "1/2 cup white wine",
+              "1/2 cup grated parmesan cheese",
+              "2 tbsp chopped fresh parsley"
+            ],
+            "method": "1. Cook the linguine according to package instructions. \n2. Meanwhile, heat the olive oil in a large skillet over medium heat. \n3. Add the garlic and cook for 1-2 minutes, or until fragrant. \n4. Add the shrimp and cook for 2-3 minutes on each side, or until pink. \n5. Pour in the white wine and bring to a simmer. \n6. Drain the cooked linguine and add it to the skillet. \n7. Toss with the shrimp mixture and grated parmesan cheese. \n8. Garnish with chopped parsley and serve hot.",
+            "rating": 4.8
+          },
+            {
+              "id": 3,
+              "chef_id": 1,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img3.jpg",
+              "name": "Beef Stir Fry",
+              "ingredients": [
+                "1 lb beef sirloin, sliced",
+                "1/2 cup soy sauce",
+                "2 tbsp honey",
+                "1 tbsp cornstarch",
+                "2 garlic cloves, minced",
+                "1/4 cup vegetable oil",
+                "4 cups mixed vegetables, chopped"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.2
+            },
+            {
+              "id": 4,
+              "chef_id": 2,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img4.jpg",
+              "name": "Sautéed Salmon",
+              "ingredients": [
+                "4 salmon fillets",
+                "1/4 cup butter",
+                "2 tbsp chopped fresh parsley",
+                "1 tbsp lemon juice",
+                "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+              },
+  
+            {
+              "id": 5,
+              "chef_id": 2,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img5.jpg",
+              "name": "Chicken Parmesan",
+              "ingredients": [
+              "4 boneless chicken breasts",
+              "1/4 cup olive oil",
+              "2 tbsp paprika",
+              "1 tbsp garlic powder",
+              "1 tsp cayenne pepper",
+              "salt and pepper to taste"
+              ],
+              "method": "1. Mix together the olive oil, paprika, garlic powder, cayenne pepper, salt, and pepper. \n2. Coat the chicken breasts with the spice mixture. \n3. Grill over medium heat for 8-10 minutes on each side, or until the chicken is cooked through. \n4. Serve hot.",
+              "rating": 4.5
+          },
+            {
+              "id": 6,
+              "chef_id": 2,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img6.jpg",
+              "name": "Garlic Shrimp Linguine",
+              "ingredients": [
+              "1 lb linguine",
+              "1 lb shrimp, peeled and deveined",
+              "1/4 cup olive oil",
+              "6 garlic cloves, minced",
+              "1/2 cup white wine",
+              "1/2 cup grated parmesan cheese",
+              "2 tbsp chopped fresh parsley"
+              ],
+              "method": "1. Cook the linguine according to package instructions. \n2. Meanwhile, heat the olive oil in a large skillet over medium heat. \n3. Add the garlic and cook for 1-2 minutes, or until fragrant. \n4. Add the shrimp and cook for 2-3 minutes on each side, or until pink. \n5. Pour in the white wine and bring to a simmer. \n6. Drain the cooked linguine and add it to the skillet. \n7. Toss with the shrimp mixture and grated parmesan cheese. \n8. Garnish with chopped parsley and serve hot.",
+              "rating": 4.8
+          },
+            {
+              "id": 7,
+              "chef_id": 3,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img7.jpg",
+              "name": "Beef Stir Fry",
+              "ingredients": [
+              "1 lb beef sirloin, sliced",
+              "1/2 cup soy sauce",
+              "2 tbsp honey",
+              "1 tbsp cornstarch",
+              "2 garlic cloves, minced",
+              "1/4 cup vegetable oil",
+              "4 cups mixed vegetables, chopped"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.", 
+              "rating": 4.2  
+          },
+
+            {
+                "id": 8,
+                "chef_id": 3,
+                "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img8.jpg",
+                "name": "Sautéed Salmon",
+                "ingredients": [
+                "4 salmon fillets",
+                "1/4 cup butter",
+                "2 tbsp chopped fresh parsley",
+                "1 tbsp lemon juice",
+                "salt and pepper to taste"
+                ],
+                "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "id": 9,
+                "chef_id": 3,
+                "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img9.jpg",
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                "4 boneless chicken breasts",
+                "1/4 cup olive oil",
+                "2 tbsp paprika",
+                "1 tbsp garlic powder",
+                "1 tsp cayenne pepper",
+                "salt and pepper to taste"
+                ],
+                "method": "1. Mix together the olive oil, paprika, garlic powder, cayenne pepper, salt, and pepper. \n2. Coat the chicken breasts with the spice mixture. \n3. Grill over medium heat for 8-10 minutes on each side, or until the chicken is cooked through. \n4. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "id": 10,
+                "chef_id": 4,
+                "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img10.jpg",
+                "name": "Garlic Shrimp Linguine",
+                "ingredients": [
+                "1 lb linguine",
+                "1 lb shrimp, peeled and deveined",
+                "1/4 cup olive oil",
+                "6 garlic cloves, minced",
+                "1/2 cup white wine",
+                "1/2 cup grated parmesan cheese",
+                "2 tbsp chopped fresh parsley"
+                ],
+                "method": "1. Cook the linguine according to package instructions. \n2. Meanwhile, heat the olive oil in a large skillet over medium heat. \n3. Add the garlic and cook for 1-2 minutes, or until fragrant. \n4. Add the shrimp and cook for 2-3 minutes on each side, or until pink. \n5. Pour in the white wine and bring to a simmer. \n6. Drain the cooked linguine and add it to the skillet. \n7. Toss with the shrimp mixture and grated parmesan cheese. \n8. Garnish with chopped parsley and serve hot.",
+                "rating": 4.8
+            },
+            {
+                "id": 11,
+                "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img11.jpg",
+                "chef_id": 4,
+                "name": "Beef Stir Fry",
+                "ingredients": [
+                "1 lb beef sirloin, sliced",
+                "1/2 cup soy sauce",
+                "2 tbsp honey",
+                "1 tbsp cornstarch",
+                "2 garlic cloves, minced",
+                "1/4 cup vegetable oil",
+                "4 cups mixed vegetables, chopped"
+                ],
+                "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",   
+                "rating": 4.2
+            },
+            {
+                "id": 12,
+                "chef_id": 4,
+                "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img12.jpg",
+                "name": "Sautéed Salmon",
+                "ingredients": [
+                "4 salmon fillets",
+                "1/4 cup butter",
+                "2 tbsp chopped fresh parsley",
+                "1 tbsp lemon juice",
+                "salt and pepper to taste"
+                ],
+                "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+                "rating": 4.7
+            },
+            {
+              "id": 13,
+              "chef_id": 1,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img3.jpg",
+              "name": "Beef Stir Fry",
+              "ingredients": [
+                "1 lb beef sirloin, sliced",
+                "1/2 cup soy sauce",
+                "2 tbsp honey",
+                "1 tbsp cornstarch",
+                "2 garlic cloves, minced",
+                "1/4 cup vegetable oil",
+                "4 cups mixed vegetables, chopped"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.2
+            },
+            {
+              "id": 14,
+              "chef_id": 4,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img12.jpg",
+              "name": "Sautéed Salmon",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 15,
+              "chef_id": 5,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img13.jpg",
+              "name": "Clam chowder",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 16,
+              "chef_id": 5,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img14.jpg",
+              "name": "Fried chicken",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 17,
+              "chef_id": 5,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img15.jpg",
+              "name": "BBQ ribs",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 18,
+              "chef_id": 5,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img16.jpg",
+              "name": "Sautéed Salmon",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 19,
+              "chef_id": 5,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img11.jpg",
+              "name": "Hot dog",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 20,
+              "chef_id": 6,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img3.jpg",
+              "name": "Sautéed Salmon",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 21,
+              "chef_id": 6,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img17.jpg",
+              "name": "Biscuits and gravy",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 22,
+              "chef_id": 6,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img2.jpg",
+              "name": "Buffalo wings",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          },
+            {
+              "id": 23,
+              "chef_id": 6,
+              "photo" :"http://www.themeenergy.com/themes/html/social-chef/images/img18.jpg",
+              "name": "Philly cheesesteak",
+              "ingredients": [
+              "4 salmon fillets",
+              "1/4 cup butter",
+              "2 tbsp chopped fresh parsley",
+              "1 tbsp lemon juice",
+              "salt and pepper to taste"
+              ],
+              "method": "1. In a bowl, whisk together the soy sauce, honey, cornstarch, and garlic. \n2. Heat the vegetable oil in a wok or large skillet over high heat. \n3. Add the sliced beef and stir-fry for 2-3 minutes, or until browned. \n4. Add the chopped vegetables and continue to stir-fry for another 2-3 minutes, or until tender. \n5. Pour in the soy sauce mixture and stir until everything is coated. \n6. Serve hot.",
+              "rating": 4.7
+          }
+        ]
+    }
+  
